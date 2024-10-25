@@ -114,11 +114,11 @@ function Resume() {
                                           <div className="space-y-3">
                                                 <div className="flex items-center space-x-2">
                                                       <GiGraduateCap size="28px" />
-                                                      <p className="text-lg text-gray-700 dark:text-gray-300">10th SSC - Vanita Vikash Vidyalaya (2020)</p>
+                                                      <p className="text-lg text-gray-700 dark:text-gray-300">10th SSC - Vanita Vikash Vidyalaya (2020)- Grade: 57.40%</p>
                                                 </div>
                                                 <div className="flex items-center space-x-2">
                                                       <GiGraduateCap size="28px" />
-                                                      <p className="text-lg text-gray-700 dark:text-gray-300">12th HSC - Vidhabha Buniyadi High School (2022)</p>
+                                                      <p className="text-lg text-gray-700 dark:text-gray-300">12th HSC - Vidhabha Buniyadi High School (2022) - Grade: 61.17%</p>
                                                 </div>
                                                 <div className="flex items-center space-x-2">
                                                       <GiGraduateCap size="28px" />
